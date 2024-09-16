@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34302.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qlbh1234", "qlbh1234.csproj", "{D4B57177-2D91-40AE-9032-07297FA08EBA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupQLBH", "..\SetupQLBH\SetupQLBH.vdproj", "{3B22F049-1181-4312-820A-45C554A8A6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B57177-2D91-40AE-9032-07297FA08EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B57177-2D91-40AE-9032-07297FA08EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B57177-2D91-40AE-9032-07297FA08EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B57177-2D91-40AE-9032-07297FA08EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B22F049-1181-4312-820A-45C554A8A6EE}.Debug|Any CPU.ActiveCfg = Debug
+		{3B22F049-1181-4312-820A-45C554A8A6EE}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A198EC6-CCC9-4B90-B892-40E934BA3579}
+	EndGlobalSection
+EndGlobal
